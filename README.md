@@ -98,7 +98,7 @@ Os dados são armazenados apenas em memória, conforme solicitado no desafio.
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/thiagodeas/prova-pratica-uniodonto.git
 ```
 
 Acesse o diretório do projeto:
